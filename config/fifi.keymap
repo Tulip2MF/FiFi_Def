@@ -21,8 +21,8 @@
 
 #define XXX &none
 #define ___ &trans
-#define X_LH  &smart_mouse  // thumb row, left
-#define X_RH  &bs_del       // thumb row, right
+#define X_LH  &smart_mouse  
+#define X_RH  &bs_del       
 
 /* Global settings */
 
