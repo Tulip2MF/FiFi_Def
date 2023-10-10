@@ -9,9 +9,7 @@
 #include <dt-bindings/zmk/bt.h>
 
 #define HOST_OS 2
-#include "../config/zmk-nodefree-config-main/helper.h"
-#include "../config/zmk-nodefree-config-main/keypos_def/keypos_36keys.h"
-#include "../config/zmk-nodefree-config-main/international_chars/german_alt.dtsi" 
+
 
 
 #define DEFAULT 0
