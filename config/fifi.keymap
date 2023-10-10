@@ -211,8 +211,7 @@
         bindings = <BINDING>, <BINDING>; \
         mods = <MODS>; \
     )
-MASK_MODS(masked_home, (MOD_LCTL), &kp HOME)
-MASK_MODS(masked_end,  (MOD_LCTL), &kp END)
+
 
 /* Caps-word, num-word and smart-mouse */
 
