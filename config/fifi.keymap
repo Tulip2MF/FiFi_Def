@@ -102,7 +102,7 @@
     };
 
 
- {
+/ {
     combos {
         compatible = "zmk,combos";
         combo_scrn_shot {
